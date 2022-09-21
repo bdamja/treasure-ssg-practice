@@ -1,0 +1,1 @@
+schedule clear treasure:timer/iterate
